@@ -7,7 +7,7 @@
 
 ## Descrição:
 
-Este projeto consiste no desenvolvimento de um ..
+Este projeto consiste no desenvolvimento de métricas ao departamento de logistica sendo estas repassadas atraves de um dashboard especificamente desenvolvido para atender as demandas do departamento. Objetivando a manter a qualidade de seu serviço mesmo diante de eventuais adiversidades inerentes a sua atividade.
 
    ### Principais funcionalidades
 
