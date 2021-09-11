@@ -17,14 +17,7 @@ Este projeto consiste no desenvolvimento de métricas ao departamento de logisti
     • Tempo de expedição do pedido até a chegada do produto ao cliente, segmentado por estádo;    
     • Nível médio de estoque disponivel por ano
     
-    
-## Tecnologias utilizadas:
-
-Este projeto foi desenvolvido usando as seguintes tecnologias:
-    
-    • Power Bi
-  
-  
+   
 ## Base de dados usadas:    
 
 O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV sendo essas bases:
@@ -33,3 +26,11 @@ O nosso cliente disponibilizou 4 bases de dados sobre logística no formato CSV 
 2. tabela produtos - contém os produtos cadastrados e seus valores.
 3. tabela veículos - contém veículos registrados que fazem o transporte dos produtos
 4. tabela estoque - contém o registro de estoque dos produtos por mês
+
+## Tecnologias utilizadas:
+
+Este projeto foi desenvolvido usando as seguintes tecnologias:
+    
+    • Power Bi
+  
+  
