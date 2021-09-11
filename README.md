@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://powerbi.microsoft.com/pt-br/" target="blank"><img src="https://ideias.avancadas.info/images/power-bi.png" width="320" alt="Nest Logo" /></a>
 </p>
-
-<a href="https://github.com/imersao-alura/aluraflix/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a> 
+<p align="left">
 <a href="https://powerbi.microsoft.com/pt-br/downloads/" target="blank"><img alt="" src="https://img.shields.io/gem/u/12?label=Power%20BI&logo=Power%20BI&style=plastic" /></a>
+</p>
 
 ## Descrição:
 
@@ -33,4 +33,6 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
     
     • Power Bi
   
-  
+<p align="left"> 
+<a href="https://github.com/imersao-alura/aluraflix/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a> 
+</p>
