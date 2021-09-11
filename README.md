@@ -1,2 +1,22 @@
-# Power_BI_logistica
-Projeto em Power Bi voltado a disponibilizar informações relacionados a empresa de logistica
+## Descrição:
+
+Este projeto consiste no desenvolvimento de um ..
+
+   ### Principais funcionalidades
+
+
+    • ;
+    • ; 
+    • ;    
+    • 
+    
+    
+## Tecnologias utilizadas:
+
+Este projeto foi desenvolvido usando as seguintes tecnologias:
+    
+    • Power Bi
+  
+  
+## Base de dados usados:    
+
