@@ -9,13 +9,13 @@
 
 Este projeto consiste no desenvolvimento de métricas ao departamento de logistica sendo estas repassadas atraves de um dashboard especificamente desenvolvido para atender as demandas do departamento. Objetivando a manter a qualidade de seu serviço mesmo diante de eventuais adiversidades inerentes a sua atividade.
 
-   ### Principais funcionalidades
+ ### Principais métricas a serem disponibilizadas
 
 
-    • ;
-    • ; 
-    • ;    
-    • 
+    • Entregas dentro e fora do prazo;
+    • Veiculos disponiveis para entregas; 
+    • Tempo de expedição do pedido até a chegada do produto ao cliente, segmentado por estádo;    
+    • Nível médio de estoque disponivel por ano
     
     
 ## Tecnologias utilizadas:
