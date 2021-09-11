@@ -25,5 +25,5 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
     • Power Bi
   
   
-## Base de dados usados:    
+## Base de dados usadas:    
 
