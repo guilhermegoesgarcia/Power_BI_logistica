@@ -36,3 +36,9 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 <p align="left"> 
 <a href="https://github.com/imersao-alura/aluraflix/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a> 
 </p>
+
+## Dashboard:
+
+<p align="left"> 
+<a href="https://github.com/guilhermegoesgarcia/Power_BI_logistica/blob/main/Resultado_Logistica.png?raw=true" target="_blank"><img src="https://github.com/guilhermegoesgarcia/Power_BI_logistica/blob/main/Resultado_Logistica.png?raw=true" alt="" /></a> 
+</p>
