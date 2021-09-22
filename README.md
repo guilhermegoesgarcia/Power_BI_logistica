@@ -7,7 +7,7 @@
 
 ## Descrição:
 
-Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento de logística. Sendo estas repassadas através de um dashboard especificamente desenvolvido para atender as demandas do departamento. Objetivando manter a qualidade de seu serviço mesmo diante de eventuais adversidades inerentes às suas atividades.
+Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento de logística. Sendo estas repassadas através de um dashboard especificamente desenvolvido para atender as demandas do departamento. **Objetivando manter a qualidade de seu serviço mesmo diante de eventuais adversidades** inerentes às suas atividades.
 
  ### Principais métricas a serem disponibilizadas
 
@@ -20,7 +20,7 @@ Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas a
    
 ## Base de dados usadas:    
 
-O departamento disponibilizou 4 bases de dados sobre logística no formato CSV, sendo essas bases:
+O departamento disponibilizou 4 bases de dados sobre logística no formato **CSV**, sendo essas bases:
 
 1. tabela pedidos - contém o registro de todos os pedidos feitos pelos clientes
 2. tabela produtos - contém os produtos cadastrados e seus valores
