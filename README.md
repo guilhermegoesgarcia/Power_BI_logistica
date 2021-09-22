@@ -7,7 +7,7 @@
 
 ## Descrição:
 
-Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento de logística. Sendo estas repassadas através de um dashboard especificamente desenvolvido para atender as demandas do departamento. **Objetivando manter a qualidade de seu serviço mesmo diante de eventuais adversidades** inerentes às suas atividades.
+Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento de logística. Sendo estas repassadas através de um **dashboard especificamente desenvolvido** para atender as demandas do departamento. **Objetivando manter a qualidade de seu serviço mesmo diante de eventuais adversidades** inerentes às suas atividades.
 
  ### Principais métricas a serem disponibilizadas
 
